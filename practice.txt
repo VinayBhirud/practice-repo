@@ -7,3 +7,6 @@ I am from jalgoan
 
 
 pratipanchadra
+
+a sequence is a collection
+
